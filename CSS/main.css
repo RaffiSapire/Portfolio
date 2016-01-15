@@ -15,9 +15,11 @@
   padding: 0;
 
 }
-.btn a:hover {
-  border: black;
+.nav-pills li a{
+  color: #d8192f;
+  border: 1px solid black;
 }
+
 .header li {
   display: inline-block;
   padding: 20px 10px;
